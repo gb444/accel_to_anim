@@ -1,6 +1,6 @@
 # Introduction
 
-This addon is designed for animating space craft, which I've found very hard to animate manually using a conventional keyframe workflow.
+This Blender addon is designed for animating space craft, which I've found very hard to animate manually using a conventional keyframe workflow.
 
 The concept is simple. You have your main object who's animation is written to (only in the scene frames range), and an acceleration object that drives it. There's an optional velocity object that can be animated, probably not useful for most use cases but its there to set initial velocities and use as a driver
 
